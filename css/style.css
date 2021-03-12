@@ -1,28 +1,11 @@
 /*font-family: 'Ubuntu', sans-serif;*/
 
 .logo {
-    font-family: 'Ubuntu', sans-serif;
-    font-weight: 700; 
-    font-size: 6rem; 
-    letter-spacing: -0.9rem;
+    display: inline;
     position: absolute;
-    top: 20%;
-    left: 40%;
+    left: 41%;
+    top: 16%;
 }
-
-.zero, .third {
-    color: rgb(26, 105, 196);
+.logo img {   
+    width: 272px;   
 }
-
-.first, .fifth {
-    color: red;
-}
-
-.second {
-    color: rgb(233, 148, 20);
-}
-
-.forth {
-    color: green;
-}
-
